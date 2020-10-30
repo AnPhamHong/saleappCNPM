@@ -24,7 +24,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/saleapp/static/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../GITHUB/saleappCNPM" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -73,25 +73,49 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1337" height="166" key="GridCell.Tab.0.bottom" timestamp="1603871440196">
+    <state x="259" y="26" key="FileChooserDialogImpl" timestamp="1604093771160">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1337" height="166" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1603871440196" />
-    <state width="1337" height="166" key="GridCell.Tab.0.center" timestamp="1603871440196">
+    <state x="259" y="26" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1604093771160" />
+    <state width="670" height="204" key="GridCell.Tab.0.bottom" timestamp="1604094090896">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1337" height="166" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1603871440196" />
-    <state width="1337" height="166" key="GridCell.Tab.0.left" timestamp="1603871440196">
+    <state width="670" height="204" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1604094090896" />
+    <state width="670" height="204" key="GridCell.Tab.0.center" timestamp="1604094090896">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1337" height="166" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1603871440196" />
-    <state width="1337" height="166" key="GridCell.Tab.0.right" timestamp="1603871440196">
+    <state width="670" height="204" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1604094090896" />
+    <state width="670" height="204" key="GridCell.Tab.0.left" timestamp="1604094090896">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1337" height="166" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1603871440196" />
+    <state width="670" height="204" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1604094090896" />
+    <state width="670" height="204" key="GridCell.Tab.0.right" timestamp="1604094090896">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="670" height="204" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1604094090896" />
+    <state width="670" height="204" key="GridCell.Tab.1.bottom" timestamp="1604094090896">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="670" height="204" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1604094090896" />
+    <state width="670" height="204" key="GridCell.Tab.1.center" timestamp="1604094090896">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="670" height="204" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1604094090896" />
+    <state width="670" height="204" key="GridCell.Tab.1.left" timestamp="1604094090896">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="670" height="204" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1604094090896" />
+    <state width="670" height="204" key="GridCell.Tab.1.right" timestamp="1604094090896">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="670" height="204" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1604094090896" />
     <state x="313" y="145" key="com.intellij.ide.util.TipDialog" timestamp="1604089767275">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="313" y="145" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1604089767275" />
+    <state x="0" y="0" width="887" height="728" key="find.popup" timestamp="1604093848338">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" width="887" height="728" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1604093848338" />
   </component>
 </project>

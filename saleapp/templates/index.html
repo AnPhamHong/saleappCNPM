@@ -9,13 +9,12 @@
           rel = "stylesheet"/>
 </head>
 <body>
-<h1 class="text-center"> BÁN HÀNG TRỰC TUYẾN </h1>
-<ul>
-
-    <li><a href = "{{url_for('product_list')}}">Tất cả</a></li>
-    {% for cat in categories %}
-    <li><a href = "#">{{cat.name}}</a></li>
-    {% endfor %}
-</ul>
+    <h1 class="text-center"> BÁN HÀNG TRỰC TUYẾN </h1>
+    <ul>
+        <li><a href = "{{url_for('product_list')}}">Tất cả</a></li>
+        {% for cat in categories %}
+        <li><a href = "#"> {{cat.name}} </a></li>
+        {% endfor %}
+    </ul>
 </body>
 </html>
